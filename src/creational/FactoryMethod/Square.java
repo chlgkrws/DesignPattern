@@ -1,4 +1,4 @@
-package creational.FactoryMethod;
+package creational.factorymethod;
 
 public class Square implements Shape{
 

@@ -1,4 +1,4 @@
-package creational.FactoryMethod;
+package creational.factorymethod;
 
 public class Circle implements Shape{
 
